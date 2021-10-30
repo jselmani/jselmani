@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jiel.selmani@gmail.com**
 
-- ⚡ Fun fact **I love Haagan Daazs Ice Cream**
+- ⚡ Fun fact **I love Haagan Dazs Ice Cream**
 
 <h2 align="left">Who Am I?</h3>
 
