@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiel (it's like Kyle with a "J")</h1>
 <h3 align="center">I love learning all the things.</h3>
 
-- 🔭 I’m currently working on [Jordan-ish](https://github.com/jselmani/jordan-ish)
+- 🔭 I completed [Jordan-ish](https://jordan-ish.vercel.app/). Check it out and let me know if you have any feedback!
 
 - 💬 Ask me about **React & Redux**
 
