@@ -3,12 +3,6 @@
 
 - 🔭 I completed [Jordan-ish](https://jordan-ish.vercel.app/). Check it out and let me know if you have any feedback!
 
-- 💬 Ask me about **React & Redux**
-
-- 📫 How to reach me **jiel.selmani@gmail.com**
-
-- ⚡ Fun fact **I love Haagen Dazs Ice Cream**
-
 <h2 align="left">Who Am I?</h3>
 
 - 🤔 Always curious and ready to learn more
