@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiel</h1>
 
-<h2 align="left">Who Am I?</h3>
-
-- 🤔 Always curious and ready to learn more
-- 🚴‍♂️ Love being outdoors and riding my bike
-- 🚧 Working with my hands is a must
-- 🥇 Team player - Teamwork makes the dream work
-- 💬 Communicator so that we're all on the same page
-
 <h2 align="left">How I work</h2>
 I'm motivated to do my best work to deliver projects that are jaw-dropping and impressive.  As I'm naturally curious, I like diving in deep to topics that interest me
 and allow me to build elegant solutions.  I like to move fast but also enjoy the process and understand when I can't (it only means the concept or solution hasn't
