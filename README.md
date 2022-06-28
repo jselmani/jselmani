@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiel</h1>
+<h1 align="center">Hey 👋, I'm Jiel</h1>
 
 <h2 align="left">How I work</h2>
 I'm motivated to do my best work to deliver projects that are jaw-dropping and impressive.  As I'm naturally curious, I like diving in deep to topics that interest me
